@@ -1,6 +1,6 @@
 # SQL AI Agent (Next.js + Vercel AI SDK + Drizzle + Turso)
 
-[![LinkedIn – Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/Jinay1634)
+[![LinkedIn – Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jinaypatel1634)
 
 An AI-powered database assistant that converts natural language into safe SQL SELECT queries and streams results to the UI.
 
